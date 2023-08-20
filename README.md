@@ -7,5 +7,8 @@
 - three.js
 - Lenis(慣性スクロール)[https://ics.media/entry/230804/](https://ics.media/entry/230804/)
 
+## reference
+[https://zenn.dev/bokoko33/articles/bd6744879af0d5](https://zenn.dev/bokoko33/articles/bd6744879af0d5)
+
 
   
